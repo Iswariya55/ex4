@@ -1,6 +1,6 @@
 # Ex04 Places Around Me
-## Date: 22/05/2025
-## name: iswariya r
+## Date: 20/03/2025
+## name: Iswariya R
 ## reg no: 212224220039
 
 ## AIM
